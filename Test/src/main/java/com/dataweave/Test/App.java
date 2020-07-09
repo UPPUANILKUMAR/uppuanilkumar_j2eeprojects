@@ -20,6 +20,7 @@ import java.security.cert.X509Certificate;
 
     //private String publicKeyStoreFileName = "C:\\Program Files\\Java\\jdk1.8.0_51\\jre\\lib\\security\\cacerts";
     private String publicKeyStoreFileName = "F:\\SSL\\jboss_kystore.keystore";
+	private String pubKeyStorePwd1233 = "123456"; 
     private String pubKeyStorePwd = "123456";
     private String pubKeyAlias="jboss";
     private static final String JKS = "JKS";
